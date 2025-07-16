@@ -1,9 +1,9 @@
 # ObsidianMD
+Collection of ObsidianMD resources
 
+## Repository Content
 
-## Content
-
-### /Templater
+### Templater/
 
 #### Templater/DV inline property from another file.md
 Templater template that uses Dataview to display a property from another note.
