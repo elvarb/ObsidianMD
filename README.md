@@ -5,7 +5,7 @@ Collection of ObsidianMD resources
 
 ### Templater/
 
-#### Templater/DV inline property from another file.md
+#### [ObsidianMD/Templater/DV inline property from another file.md](https://github.com/elvarb/ObsidianMD/blob/main/Templater/DV%20inline%20property%20from%20another%20file.md?plain=1)
 Templater template that uses Dataview to display a property from another note.
 - The user is prompted with with an input box to search for a note. 
 - When the user has selected a note another input box shows up that will list all the available properties from that specific note.
