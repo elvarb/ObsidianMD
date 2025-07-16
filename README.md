@@ -1,4 +1,5 @@
 
+<img width="1531" height="420" alt="ObsidianMD Banner" src="https://github.com/user-attachments/assets/ca6cd6a3-fa05-479a-9b44-846518d0f41a" />
 
 # ObsidianMD
 Collection of ObsidianMD resources
