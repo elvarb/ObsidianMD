@@ -21,6 +21,18 @@ Shades each nested folder level.
 <img width="396" height="201" alt="image" src="https://github.com/user-attachments/assets/26770e81-8cd2-4b52-a576-dcb6c2888713" />
 
 
+#### [ObsidianMD/CSS snippets/Stacked tabs.css](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Stacked%20tabs.css)
+Modifies how tabs look and stacks them instead of showing only the first characters in the file names. 
+
+<img width="760" height="101" alt="image" src="https://github.com/user-attachments/assets/16ed3bf7-dd1c-47ac-83e2-b409df30ad7f" />
+
+Becomes
+
+<img width="800" height="137" alt="image" src="https://github.com/user-attachments/assets/4f6faac5-3f6d-417f-bd96-44ae05456654" />
+
+
+
+
 ### Templater/
 
 ---
