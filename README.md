@@ -38,6 +38,11 @@ Becomes
 ---
 #### [ObsidianMD/Templater/DV inline property from another file.md](https://github.com/elvarb/ObsidianMD/blob/main/Templater/DV%20inline%20property%20from%20another%20file.md?plain=1)
 Templater template that uses Dataview to display a property from another note.
-- The user is prompted with with an input box to search for a note. 
+- The user is prompted with with an input box to search for a note.
+  - <img width="853" height="188" alt="image" src="https://github.com/user-attachments/assets/9f5d9716-b0b2-4aaa-8c7b-9b1bd5f335d9" />
 - When the user has selected a note another input box shows up that will list all the available properties from that specific note.
+  - <img width="851" height="252" alt="image" src="https://github.com/user-attachments/assets/eb9ae65f-5a1b-404c-a20f-21edb4b13acd" />
 - After selecting a property a dataview query will be inserted in the current note.
+  - `$= dv.page("2025-08-08").modified`
+
+
