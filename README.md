@@ -8,14 +8,22 @@ Collection of ObsidianMD resources
 
 ### CSS snippets/
 
+---
 #### [ObsidianMD/CSS snippets/Attachment folder.css](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Attachment%20folder.css)
 Makes all folders named "_attachments" faded, the targeted folder can easily be modified.
 
 <img width="323" height="98" alt="image" src="https://github.com/user-attachments/assets/7d518ca2-858f-419d-9cbe-9012c0915de3" />
 
 
+#### [ObsidianMD/CSS snippets/Shaded folders.css](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Shaded%20folders.css)
+Shades each nested folder level.
+
+<img width="396" height="201" alt="image" src="https://github.com/user-attachments/assets/26770e81-8cd2-4b52-a576-dcb6c2888713" />
+
+
 ### Templater/
 
+---
 #### [ObsidianMD/Templater/DV inline property from another file.md](https://github.com/elvarb/ObsidianMD/blob/main/Templater/DV%20inline%20property%20from%20another%20file.md?plain=1)
 Templater template that uses Dataview to display a property from another note.
 - The user is prompted with with an input box to search for a note. 
