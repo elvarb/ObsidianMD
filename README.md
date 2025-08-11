@@ -10,6 +10,7 @@ Collection of ObsidianMD resources
 
 #### [ObsidianMD/CSS snippets/Attachment folder.css at main · elvarb/ObsidianMD](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Attachment%20folder.css)
 Makes all folders named "_attachments" faded, the targeted folder can easily be modified.
+
 <img width="323" height="98" alt="image" src="https://github.com/user-attachments/assets/7d518ca2-858f-419d-9cbe-9012c0915de3" />
 
 
