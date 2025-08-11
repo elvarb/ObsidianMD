@@ -1,0 +1,10 @@
+/* Target folders named "_attachments" regardless of location */
+.nav-folder .nav-folder-title[data-path*="/_attachments"] .nav-folder-title-content {
+    /*color: var(--text-accent); /* Change text color */
+    color: var(--color-base-35); /* Change text color */
+    /*font-weight: bold;        /* Make text bold */
+    font-style: italic;       /* Make text italic */
+    /*background-color: var(--background-modifier-accent); /* Highlight background */
+    /*padding: 2px 4px;         /* Add some padding for visual clarity */
+    /*border-radius: 4px;       /* Rounded corners for background */
+}
