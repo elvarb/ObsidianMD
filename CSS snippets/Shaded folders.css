@@ -1,0 +1,9 @@
+/* Credits to https://forum.obsidian.md/t/highlight-folders-background/88702 */
+
+:root {
+    --color-folder: #a98eb418;
+}
+
+.nav-folder .nav-folder-children {
+    background-color: var(--color-folder) !important;
+}
