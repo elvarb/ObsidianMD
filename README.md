@@ -31,6 +31,7 @@ Becomes
 <img width="800" height="137" alt="image" src="https://github.com/user-attachments/assets/4f6faac5-3f6d-417f-bd96-44ae05456654" />
 
 ### Dataview/
+---
 
 #### [ObsidianMD/Dataview/Find broken frontmatter.md](https://github.com/elvarb/ObsidianMD/blob/main/Dataview/Find%20broken%20frontmatter.md)
 A DataviewJS snippet that will list all notes that have broken frontmatter/properties/yaml.
