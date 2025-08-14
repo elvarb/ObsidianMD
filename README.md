@@ -52,4 +52,21 @@ Templater template that uses Dataview to display a property from another note.
 - After selecting a property a dataview query will be inserted in the current note.
   - `$= dv.page("2025-08-08").modified`
 
+## Tips and tricks
+
+### Bookmarklet
+Create a custom bookmarklet in your browser that will create a markdown link of the currently opened tab.
+
+`[GitHub](https://github.com/)`
+
+
+## Other Resources
+
+### CSS Snippets
+
+#### [efemkay/obsidian-modular-css-layout: CSS Layout hack for Obsidian.md](https://github.com/efemkay/obsidian-modular-css-layout)
+Easy to use, flexible and practical css snippets that provide a real value. 
+- [obsidian-modular-css-layout/MCL Gallery Cards.css](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Gallery%20Cards.css)
+- [obsidian-modular-css-layout/MCL Multi Column.css](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css)
+- [obsidian-modular-css-layout/MCL Wide Views.css](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Wide%20Views.css)
 
