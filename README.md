@@ -57,6 +57,10 @@ Templater template that uses Dataview to display a property from another note.
 ### Bookmarklet
 Create a custom bookmarklet in your browser that will create a markdown link of the currently opened tab.
 
+`javascript:navigator.clipboard.writeText(`[${document.title}](${document.location.href})`)`
+
+Will add this to your clipboard
+
 `[GitHub](https://github.com/)`
 
 
