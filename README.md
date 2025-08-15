@@ -14,6 +14,10 @@ Makes all folders named "_attachments" faded, the targeted folder can easily be 
 
 <img width="323" height="98" alt="image" src="https://github.com/user-attachments/assets/7d518ca2-858f-419d-9cbe-9012c0915de3" />
 
+#### [ObsidianMD/CSS snippets/Custom properties.css at main · elvarb/ObsidianMD](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Custom%20properties.css)
+Changes how individial properties look like.
+
+<img width="364" height="150" alt="image" src="https://github.com/user-attachments/assets/a41a2152-d1bc-46ce-9554-7b32036ea2cb" />
 
 
 #### [ObsidianMD/CSS snippets/Shaded folders.css](https://github.com/elvarb/ObsidianMD/blob/main/CSS%20snippets/Shaded%20folders.css)
