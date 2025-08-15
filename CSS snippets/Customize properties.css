@@ -1,0 +1,10 @@
+/*Changes how created and modified look in the property box*/
+.metadata-property[data-property-key="created"] {
+    background-color: #12253B;
+    color: #4385BE;
+  }
+
+.metadata-property[data-property-key="modified"] {
+    background-color: #12253B;
+    color: #4385BE;
+  }
